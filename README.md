@@ -4,9 +4,11 @@ A full-stack web application for managing a catalogue of computer products and p
 
 The project provides a responsive React interface connected to a REST API built with Node.js, Express, TypeScript, TypeORM, and MySQL. Users can browse products and perform CRUD operations to create, view, update, and remove catalogue items.
 
-## Features
+<img width="1920" height="913" alt="1671074429849" src="https://github.com/user-attachments/assets/0ab333c3-228d-4dfa-bb07-27f76ce49f6b" />
 
-* Browse a catalogue of computer products
+<img width="1920" height="807" alt="1671074831818" src="https://github.com/user-attachments/assets/8a485e4f-1b98-4bb1-a8f3-7412aa8ab42e" />
+
+## Features
 * View product information and current stock
 * Add new products to the catalogue
 * Edit existing product information
@@ -18,7 +20,6 @@ The project provides a responsive React interface connected to a REST API built 
 * REST API communication through Axios
 
 ## Tech Stack
-
 ### Frontend
 
 * React
